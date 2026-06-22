@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFSS RF Modeling"
+  short_description: "HFSS/PyAEDT antenna, feed, and port guardrails."
+  default_prompt: "Use $hfss-rf-modeling to build or review an HFSS/PyAEDT RF antenna model."

@@ -1,0 +1,8 @@
+interface:
+  display_name: "HFSS Control"
+  short_description: "HFSS modeling, ports, solves, exports, and cleanup"
+  default_prompt: "Use $hfss-control to open, clean, build, solve, and validate an HFSS project on Windows."
+  brand_color: "#2563EB"
+
+policy:
+  allow_implicit_invocation: true

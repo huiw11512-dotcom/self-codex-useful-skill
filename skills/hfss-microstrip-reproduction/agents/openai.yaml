@@ -1,0 +1,3 @@
+display_name: HFSS Microstrip Reproduction
+short_description: HFSS microstrip reproduction workflow.
+default_prompt: Use this skill to reproduce a paper microstrip network in HFSS from target impedances, valid ports, simulation, and S-parameter metrics.

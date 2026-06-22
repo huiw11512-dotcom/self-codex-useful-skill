@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Retrieval"
+  short_description: "Rank papers by quality and collect authorized PDFs."
+  default_prompt: "Use $literature-retrieval to rank high-quality papers and retrieve authorized PDFs."

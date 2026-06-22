@@ -1,0 +1,6 @@
+interface:
+  display_name: "EM Simulation Reproduction"
+  short_description: "HFSS/CST modeling, baseline validation, scans, and optimization discipline."
+  default_prompt: "Use $em-sim-reproduction to reproduce and optimize this HFSS/CST electromagnetic model with baseline validation before optimization."
+policy:
+  allow_implicit_invocation: true

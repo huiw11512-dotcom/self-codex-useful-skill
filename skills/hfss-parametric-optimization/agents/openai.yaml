@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFSS Parametric Optimization"
+  short_description: "Meaningful HFSS parametric EM optimization"
+  default_prompt: "Use this skill to build, validate, simulate, and optimize HFSS models whose variables drive real geometry, boolean operations, ports, sweeps, and goals."
